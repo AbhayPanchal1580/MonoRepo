@@ -10,6 +10,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
+    <h1>Hello world</h1>
     <App />
     <AppFromTeamB/>
   </React.StrictMode>
